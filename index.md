@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Multiclass Image Classification](/sample_page)
-<img src="Screen Shot 2021-04-25 at 6.36.50 PM.png?raw=true"/>
+<img src="images/Screen Shot 2021-04-25 at 6.36.50 PM.png?raw=true"/>
 
 ---
 [Natural Language Processing](/pdf/sample_presentation.pdf)
