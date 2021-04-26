@@ -6,7 +6,7 @@
 
 - [Multiclass Image Classification](https://github.com/larandrup/larandrup.github.io/tree/master/multiclass_image_classification)
 <img src="images/Screen Shot 2021-04-25 at 6.36.50 PM.png?raw=true"/>
-<a href="https://larandrup.medium.com/training-a-computer-vision-101-ffaafe5dcde7">[Medium Post]</a>
+<a href="https://larandrup.medium.com/training-a-computer-vision-101-ffaafe5dcde7">[Training a Computer Vision 101]</a>
 ---
 [Natural Language Processing](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
