@@ -6,6 +6,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://larandrup.medium.com/">Medium</a>
   <br><br>
+  <a href="pdf/LARandrup.pdf">Resume</a>
+  <br><br>
+  <a href="larandrup@gmail.com">Email</a>
+  <br><br>
   Data Scientist open for work opportunities with hands-on experience in Statistical Data Analysis, Machine Learning Algorithms, and Exploratory Data Analysis and years of experience in Digital Marketing. Expert in bringing insights from your data and who can raise new questions and be able to build models to make predictions based on new data. Passionate about creating impactful solutions.
   <br>
 theme: jekyll-theme-minimal
