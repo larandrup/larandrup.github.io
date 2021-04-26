@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Multiclass Image Classification](/sample_page)
+- [Multiclass Image Classification](https://github.com/larandrup/larandrup.github.io/tree/master/multiclass_image_classification)
+<a href="https://larandrup.medium.com/training-a-computer-vision-101-ffaafe5dcde7">[Medium Post]</a>
 <img src="images/Screen Shot 2021-04-25 at 6.36.50 PM.png?raw=true"/>
 
 ---
@@ -19,7 +20,6 @@
 
 ### Category Name 2
 
-- [Multiclass Image Classification](https://github.com/larandrup/larandrup.github.io/tree/master/multiclass_image_classification)
 - [Natural Language Processing](http://example.com/)
 - [Data Analysis and Algorithmic Bias](http://example.com/)
 - [Project 4 Title](http://example.com/)
