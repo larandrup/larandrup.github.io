@@ -20,8 +20,8 @@
 ### Category Name 2
 
 - [Multiclass Image Classification](https://github.com/larandrup/larandrup.github.io/tree/master/multiclass_image_classification)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Natural Language Processing](http://example.com/)
+- [Data Analysis and Algorithmic Bias](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
