@@ -1,1 +1,0 @@
-region_name<^>min_zip_code<^>max_zip_codeManhattan<^>10001<^>10282Staten Island<^>10301<^>10314Bronx<^>10451<^>10475Queens<^>11004<^>11106Brooklyn<^>11201<^>11249Queens<^>11351<^>11697
